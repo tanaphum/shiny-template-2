@@ -7,6 +7,8 @@
 #    http://shiny.rstudio.com/
 #    credit Charlotte Sirot from answered in stackoverflow
 #    https://stackoverflow.com/questions/36080529/r-shinydashboard-customize-box-status-color
+# developed code by Tanaphum Wichaita
+# https://github.com/tanaphum
 
 # Define UI for application that draws a histogram
 library(shiny)
